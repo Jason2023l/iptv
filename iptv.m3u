@@ -1,410 +1,179 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="EPG" tvg-name="EPG(電子節目單)" tvg-logo="https://www.stream-link.org/tv_logo/stream_link_logo.png" group-title="SL",EPG下載(https://www.stream-link.org/epg/guide.xml)
-http://www.stream-link.org/epg/guide.xml
-#EXTINF:-1 tvg-id="8TV" tvg-name="測試01" tvg-logo="https://www.stream-link.org/tv_logo/test.png" group-title="Astro",八度空間(測試)
-https://sc2024.stream-link.org/tv2306.php?id=c01
-
-#EXTINF:-1 tvg-id="Jade.my" tvg-name="華麗(翡翠台)" tvg-logo="https://www.stream-link.org/tv_logo/astro_jade.png" group-title="Astro",華麗(翡翠台)
-https://sc2024.stream-link.org/tv2306.php?id=h00
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
-https://sc2024.stream-link.org/tv2306.php?id=h01
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
-https://sc2024.stream-link.org/tv2306.php?id=h02
-#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_j2.png" group-title="TVB",J2台
-https://sc2024.stream-link.org/tv2306.php?id=h03
-#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_news.png" group-title="TVB",無綫新聞台
-https://sc2024.stream-link.org/tv2306.php?id=h04
-#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_finance.png" group-title="TVB",無綫財經·體育·資訊台
-https://sc2024.stream-link.org/tv2306.php?id=h05
-#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_news.png" group-title="TVB",無綫新聞台
-https://sc2024.stream-link.org/tv2306.php?id=h06
-#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_finance.png" group-title="TVB",無綫財經·體育·資訊台
-https://sc2024.stream-link.org/tv2306.php?id=h07
-#EXTINF:-1 tvg-id="nowNews" tvg-name="Now新聞台" tvg-logo="https://www.stream-link.org/tv_logo/now_332.png" group-title="香港電視娛樂",Now新聞台
-https://sc2024.stream-link.org/tv2306.php?id=h08
-#EXTINF:-1 tvg-id="nowBusinessNewsChannel" tvg-name="Now財經台" tvg-logo="https://www.stream-link.org/tv_logo/now_333.png" group-title="香港電視娛樂",Now財經台
-https://sc2024.stream-link.org/tv2306.php?id=h25
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV99" tvg-logo="https://www.stream-link.org/tv_logo/viutv.png" group-title="香港電視娛樂",ViuTV99
-https://sc2024.stream-link.org/tv2306.php?id=h09
-#EXTINF:-1 tvg-id="EntertainmentNews" tvg-name="TVB Entertainment News" tvg-logo="https://www.stream-link.org/tv_logo/astro_tvb_entertainment.png" group-title="Astro",TVB娛樂新聞台
-https://sc2024.stream-link.org/tv2306.php?id=h10
-#EXTINF:-1 tvg-id="RTHKTV31" tvg-name="港台电视31" tvg-logo="https://www.stream-link.org/tv_logo/rthk_31.png" group-title="RTHK",港台电视31
-https://sc2024.stream-link.org/tv2306.php?id=h11
-#EXTINF:-1 tvg-id="RTHKTV32" tvg-name="港台电视32" tvg-logo="https://www.stream-link.org/tv_logo/rthk_32.png" group-title="RTHK",港台电视32
-https://sc2024.stream-link.org/tv2306.php?id=h12
-#EXTINF:-1 tvg-id="RTHKTV33" tvg-name="港台电视33" tvg-logo="https://www.stream-link.org/tv_logo/rthk_33.png" group-title="RTHK",港台电视33
-https://sc2024.stream-link.org/tv2306.php?id=h13
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="中央新聞台" tvg-logo="https://www.stream-link.org/tv_logo/cctv_13.png" group-title="中央電視台",中央新聞台
-https://sc2024.stream-link.org/tv2306.php?id=h14
-#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://www.stream-link.org/tv_logo/hkibc.png" group-title="奇妙電視",香港國際財經台
-https://sc2024.stream-link.org/tv2306.php?id=h15
-#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://www.stream-link.org/tv_logo/hoy_tv.png" group-title="奇妙電視",香港開電視
-https://sc2024.stream-link.org/tv2306.php?id=h16
-#EXTINF:-1 tvg-id="78" tvg-name="香港開電視資訊台" tvg-logo="https://www.stream-link.org/tv_logo/hoy_info.png" group-title="奇妙電視",香港開電視資訊台
-https://sc2024.stream-link.org/tv2306.php?id=h17
-#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel" tsvg-name="鳳凰衛視資訊台" tvg-logo="https://www.stream-link.org/tv_logo/phtv_info.png" group-title="鳳凰衛視",鳳凰衛視資訊台
-https://sc2024.stream-link.org/tv2306.php?id=h18
-#EXTINF:-1 tvg-id="PhoenixChineseChannel" tvg-name="鳳凰衛視中文台" tvg-logo="https://www.stream-link.org/tv_logo/phtv_live.png" group-title="鳳凰衛視",鳳凰衛視中文台
-https://sc2024.stream-link.org/tv2306.php?id=h19
-#EXTINF:-1 tvg-id="9999" tvg-name="澳門蓮花衛視" tvg-logo="https://www.stream-link.org/tv_logo/macault.png" group-title="澳門衛視",澳門蓮花衛視
-https://sc2024.stream-link.org/tv2306.php?id=h20
-#EXTINF:-1 tvg-id="TVBMagic" tvg-name="TVB Magic" tvg-logo="https://www.stream-link.org/tv_logo/tvb_magic.png" group-title="Astro",TVB Magic
-https://sc2024.stream-link.org/tv2306.php?id=h21
-#EXTINF:-1 tvg-id="TVBXingHe" tvg-name="TVB星河台" tvg-logo="https://www.stream-link.org/tv_logo/mytv_214.png" group-title="Astro",TVB星河台
-https://sc2024.stream-link.org/tv2306.php?id=h22
-#EXTINF:-1 tvg-id="TVBClassic" tvg-name="TVB千禧經典台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_classic.png" group-title="Astro",TVB千禧經典台
-https://sc2024.stream-link.org/tv2306.php?id=h23
-#EXTINF:-1 tvg-id="CelestialMoviesMalaysia" tvg-name="天映頻道" tvg-logo="https://www.stream-link.org/tv_logo/astro_celestial_movies.png" group-title="Astro",天映頻道
-https://sc2024.stream-link.org/tv2306.php?id=h24
-#EXTINF:-1 tvg-id="AstroAEC" tvg-name="Astro AEC" tvg-logo="https://www.stream-link.org/tv_logo/astro_aec.png" group-title="Astro",Astro AEC
-https://sc2024.stream-link.org/tv2306.php?id=h26
-#EXTINF:-1 tvg-id="AstroQJ" tvg-name="Astro QJ" tvg-logo="https://www.stream-link.org/tv_logo/astro_qj.png" group-title="Astro",Astro QJ
-https://sc2024.stream-link.org/tv2306.php?id=h27
-
-#EXTINF:-1 tvg-id="nowSportsPrime" tvg-name="Now精選體育" tvg-logo="https://www.stream-link.org/tv_logo/now_630.png" group-title="Now",Now精選體育
-https://sc2024.stream-link.org/tv2306.php?id=s01
-#EXTINF:-1 tvg-id="1987" tvg-name="五星體育" tvg-logo="https://www.stream-link.org/tv_logo/great_sports.png" group-title="體育休閒",五星體育
-https://sc2024.stream-link.org/tv2306.php?id=s02
-#EXTINF:-1 tvg-id="6090" tvg-name="緯來體育" tvg-logo="https://www.stream-link.org/tv_logo/videoland_sport.png" group-title="體育休閒",緯來體育
-https://sc2024.stream-link.org/tv2306.php?id=s03
-#EXTINF:-1 tvg-id="AbuDhabiSports1" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://www.stream-link.org/tv_logo/ad_sports_1.png" group-title="體育休閒",Abu Dhabi Sports 1
-https://sc2024.stream-link.org/tv2306.php?id=s05
-#EXTINF:-1 tvg-id="AbuDhabiSports2" tvg-name="Abu Dhabi Sports 2" tvg-logo="https://www.stream-link.org/tv_logo/ad_sports_2.png" group-title="體育休閒",Abu Dhabi Sports 2
-https://sc2024.stream-link.org/tv2306.php?id=s06
-#EXTINF:-1 tvg-id="DAZNF1" tvg-name="DAZN F1" tvg-logo="https://www.stream-link.org/tv_logo/dazn_f1.png" group-title="體育休閒",DAZN F1
-https://sc2024.stream-link.org/tv2306.php?id=s07
-#EXTINF:-1 tvg-id="Laliga" tvg-name="DAZN Laliga" tvg-logo="https://www.stream-link.org/tv_logo/dazn_laliga.png" group-title="體育休閒",DAZN 西甲
-https://sc2024.stream-link.org/tv2306.php?id=s08
-#EXTINF:-1 tvg-id="MLB" tvg-name="MLB" tvg-logo="https://www.stream-link.org/tv_logo/mlb.png" group-title="體育休閒",MLB
-https://sc2024.stream-link.org/tv2306.php?id=s09
-#EXTINF:-1 tvg-id="nowNBA" tvg-name="NBA TV" tvg-logo="https://www.stream-link.org/tv_logo/nba_tv.png" group-title="體育休閒",NBA TV
-https://sc2024.stream-link.org/tv2306.php?id=s10
-#EXTINF:-1 tvg-id="Unbeaten" tvg-name="Unbeaten" tvg-logo="https://www.stream-link.org/tv_logo/unbeaten.png" group-title="體育休閒",Unbeaten
-https://sc2024.stream-link.org/tv2306.php?id=s11
-#EXTINF:-1 tvg-id="9999" tvg-name="FIFA+" tvg-logo="https://www.stream-link.org/tv_logo/fifa_plus.png" group-title="體育休閒",FIFA+
-https://sc2024.stream-link.org/tv2306.php?id=s12
-#EXTINF:-1 tvg-id="TennisChannel" tvg-name="Tennis Channel" tvg-logo="https://www.stream-link.org/tv_logo/tennis_channel.png" group-title="體育休閒",Tennis Channel
-https://sc2024.stream-link.org/tv2306.php?id=s13
-#EXTINF:-1 tvg-id="beINSPORTSXTRA" tvg-name="beIN SPORTS XTRA" tvg-logo="https://www.stream-link.org/tv_logo/bein_sports_xtra.png" group-title="體育休閒",beIN SPORTS XTRA
-https://sc2024.stream-link.org/tv2306.php?id=s14
-#EXTINF:-1 tvg-id="beINSports" tvg-name="beIN SPORTS" tvg-logo="https://www.stream-link.org/tv_logo/bein_sports.png" group-title="體育休閒",beIN SPORTS
-https://sc2024.stream-link.org/tv2306.php?id=s15
-#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN SPORTS 2" tvg-logo="https://www.stream-link.org/tv_logo/bein_sports2.png" group-title="體育休閒",beIN SPORTS 2
-https://sc2024.stream-link.org/tv2306.php?id=s16
-#EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN SPORTS 3" tvg-logo="https://www.stream-link.org/tv_logo/bein_sports3.png" group-title="體育休閒",beIN SPORTS 3
-https://sc2024.stream-link.org/tv2306.php?id=s17
-#EXTINF:-1 tvg-id="beINSports4" tvg-name="beIN SPORTS 4" tvg-logo="https://www.stream-link.org/tv_logo/bein_sports4.png" group-title="體育休閒",beIN SPORTS 4
-https://sc2024.stream-link.org/tv2306.php?id=s18
-#EXTINF:-1 tvg-id="AstroSuperSport" tvg-name="Astro SUPERSPORT" tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport.png" group-title="體育休閒",Astro SUPERSPORT
-https://sc2024.stream-link.org/tv2306.php?id=s19
-#EXTINF:-1 tvg-id="AstroSuperSport2" tvg-name="Astro SUPERSPORT 2" tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport2.png" group-title="體育休閒",Astro SUPERSPORT 2
-https://sc2024.stream-link.org/tv2306.php?id=s20
-#EXTINF:-1 tvg-id="AstroSuperSport3" tvg-name="Astro SUPERSPORT 3" tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport3.png" group-title="體育休閒",Astro SUPERSPORT 3
-https://sc2024.stream-link.org/tv2306.php?id=s21
-#EXTINF:-1 tvg-id="AstroSuperSport4" tvg-name="Astro SUPERSPORT 4" tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport4.png" group-title="體育休閒",Astro SUPERSPORT 4
-https://sc2024.stream-link.org/tv2306.php?id=s22
-#EXTINF:-1 tvg-id="TNTSports1HD" tvg-name="TNT Sports 1" tvg-logo="https://www.stream-link.org/tv_logo/tnt_sports1.png" group-title="體育休閒",TNT Sports 1
-https://sc2024.stream-link.org/tv2306.php?id=s23
-#EXTINF:-1 tvg-id="TNTSports2HD" tvg-name="TNT Sports 2" tvg-logo="https://www.stream-link.org/tv_logo/tnt_sports2.png" group-title="體育休閒",TNT Sports 2
-https://sc2024.stream-link.org/tv2306.php?id=s24
-#EXTINF:-1 tvg-id="TNTSports3HD" tvg-name="TNT Sports 3" tvg-logo="https://www.stream-link.org/tv_logo/tnt_sports3.png" group-title="體育休閒",TNT Sports 3
-https://sc2024.stream-link.org/tv2306.php?id=s25
-#EXTINF:-1 tvg-id="TNTSports4HD" tvg-name="TNT Sports 4" tvg-logo="https://www.stream-link.org/tv_logo/tnt_sports4.png" group-title="體育休閒",TNT Sports 4
-https://sc2024.stream-link.org/tv2306.php?id=s26
-
-#EXTINF:-1 tvg-id="9999" tvg-name="ANN News" tvg-logo="https://www.stream-link.org/tv_logo/ann_news.png" group-title="News",ANN News
-https://sc2024.stream-link.org/tv2306.php?id=e01
-#EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific" tvg-name="BBC News" tvg-logo="https://www.stream-link.org/tv_logo/bbc_news.png" group-title="News",BBC News
-https://sc2024.stream-link.org/tv2306.php?id=e02
-#EXTINF:-1 tvg-id="BloombergTVAsia" tvg-name="Bloomberg" tvg-logo="https://www.stream-link.org/tv_logo/bloomberg.png" group-title="News",Bloomberg
-https://sc2024.stream-link.org/tv2306.php?id=e03
-#EXTINF:-1 tvg-id="CBNNews" tvg-name="CBN News" tvg-logo="https://www.stream-link.org/tv_logo/cbn_news.png" group-title="News",CBN News
-https://sc2024.stream-link.org/tv2306.php?id=e04
-#EXTINF:-1 tvg-id="CBSNews" tvg-name="CBS News" tvg-logo="https://www.stream-link.org/tv_logo/cbs_news.png" group-title="News",CBS News
-https://sc2024.stream-link.org/tv2306.php?id=e05
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA News" tvg-logo="https://www.stream-link.org/tv_logo/cna_news.png" group-title="News",CNA News
-https://sc2024.stream-link.org/tv2306.php?id=e06
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN Live" tvg-logo="https://www.stream-link.org/tv_logo/cnn_live.png" group-title="News",CNN Live
-https://sc2024.stream-link.org/tv2306.php?id=e07
-#EXTINF:-1 tvg-id="DWEnglish" tvg-name="DW News" tvg-logo="https://www.stream-link.org/tv_logo/dw_news.png" group-title="News",DW News
-https://sc2024.stream-link.org/tv2306.php?id=e08
-#EXTINF:-1 tvg-id="FoxNewsChannel" tvg-name="Fox Live" tvg-logo="https://www.stream-link.org/tv_logo/fox_live.png" group-title="News",Fox Live
-https://sc2024.stream-link.org/tv2306.php?id=e09
-#EXTINF:-1 tvg-id="France24English" tvg-name="France 24 English" tvg-logo="https://www.stream-link.org/tv_logo/france_24E.png" group-title="News",France 24 English
-https://sc2024.stream-link.org/tv2306.php?id=e10
-#EXTINF:-1 tvg-id="NBCNewsNOW" tvg-name="NBC News" tvg-logo="https://www.stream-link.org/tv_logo/nbc_news.png" group-title="News",NBC News
-https://sc2024.stream-link.org/tv2306.php?id=e11
-#EXTINF:-1 tvg-id="NHKWorldJapan" tvg-name="NHK World Japan" tvg-logo="https://www.stream-link.org/tv_logo/nhk_world.png" group-title="News",NHK World Japan
-https://sc2024.stream-link.org/tv2306.php?id=e12
-#EXTINF:-1 tvg-id="SkyNews" tvg-name="SKY News" tvg-logo="https://www.stream-link.org/tv_logo/sky_news.png" group-title="News",SKY News
-https://sc2024.stream-link.org/tv2306.php?id=e13
-#EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World" tvg-logo="https://www.stream-link.org/tv_logo/kbs_world.png" group-title=日韓",KBS World
-https://sc2024.stream-link.org/tv2306.php?id=e14
-#EXTINF:-1 tvg-id="9999" tvg-name="Japan weather news" tvg-logo="https://www.stream-link.org/tv_logo/jp_wni.png" group-title="日韓",Japan weather news
-https://sc2024.stream-link.org/tv2306.php?id=e15
-#EXTINF:-1 tvg-id="GEM" tvg-name="Sony GEM" tvg-logo="https://www.stream-link.org/tv_logo/gem.png" group-title="日韓",GEM
-https://sc2024.stream-link.org/tv2306.php?id=e16
-#EXTINF:-1 tvg-id="KBCChannel" tvg-name="KBC" tvg-logo="https://www.stream-link.org/tv_logo/kr_kbc.png" group-title="日韓",KBC
-https://sc2024.stream-link.org/tv2306.php?id=e17
-#EXTINF:-1 tvg-id="YonhapNewsTV" tvg-name="韓聯社新聞" tvg-logo="https://www.stream-link.org/tv_logo/kr_yonhap_news_tv.jpg" group-title="日韓",연합뉴스TV_로고(韓聯社新聞)
-https://sc2024.stream-link.org/tv2306.php?id=e18
-#EXTINF:-1 tvg-id="PLAYY" tvg-name="PLAYY電影" tvg-logo="https://www.stream-link.org/tv_logo/playy_1.png" group-title="日韓",PLAYY 韓國電影台
-https://sc2024.stream-link.org/tv2306.php?id=e19
-
-#EXTINF:-1 tvg-id="6069" tvg-name="東森新聞" tvg-logo="https://www.stream-link.org/tv_logo/ebc_news.png" group-title="台灣新聞",東森新聞
-https://sc2024.stream-link.org/tv2306.php?id=t01
-#EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞" tvg-logo="https://www.stream-link.org/tv_logo/ebc_finance.png" group-title="台灣新聞",東森財經新聞
-https://sc2024.stream-link.org/tv2306.php?id=t02
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://www.stream-link.org/tv_logo/cti_news.png" group-title="台灣新聞",中天新聞
-https://sc2024.stream-link.org/tv2306.php?id=t03
-#EXTINF:-1 tvg-id="6030" tvg-name="華視" tvg-logo="https://www.stream-link.org/tv_logo/cts.png" group-title="台灣綜合綜藝",華視
-https://sc2024.stream-link.org/tv2306.php?id=t04
-#EXTINF:-1 tvg-id="9999" tvg-name="華視新聞" tvg-logo="https://www.stream-link.org/tv_logo/cts_news.png" group-title="台灣新聞",華視新聞
-https://sc2024.stream-link.org/tv2306.php?id=t05
-#EXTINF:-1 tvg-id="7176" tvg-name="中視新聞" tvg-logo="https://www.stream-link.org/tv_logo/ctv_news.png" group-title="台灣新聞",中視新聞
-https://sc2024.stream-link.org/tv2306.php?id=t06
-#EXTINF:-1 tvg-id="6071" tvg-name="民視新聞" tvg-logo="https://www.stream-link.org/tv_logo/ftv_news.png" group-title="台灣新聞",民視新聞
-https://sc2024.stream-link.org/tv2306.php?id=t07
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇國際新聞" tvg-logo="https://www.stream-link.org/tv_logo/global_news.png" group-title="台灣新聞",寰宇國際新聞
-https://sc2024.stream-link.org/tv2306.php?id=t08
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇台灣新聞" tvg-logo="https://www.stream-link.org/tv_logo/global_news.png" group-title="台灣新聞",寰宇台灣新聞
-https://sc2024.stream-link.org/tv2306.php?id=t09
-#EXTINF:-1 tvg-id="6108" tvg-name="三立財經新聞" tvg-logo="https://www.stream-link.org/tv_logo/set_inews.png" group-title="台灣新聞",三立財經新聞
-https://sc2024.stream-link.org/tv2306.php?id=t10
-#EXTINF:-1 tvg-id="6072" tvg-name="三立新聞" tvg-logo="https://www.stream-link.org/tv_logo/set_news.png" group-title="台灣新聞",三立新聞
-https://sc2024.stream-link.org/tv2306.php?id=t11
-#EXTINF:-1 tvg-id="6072" tvg-name="三立新聞+" tvg-logo="https://www.stream-link.org/tv_logo/set_news+.png" group-title="台灣新聞",三立新聞+
-https://sc2024.stream-link.org/tv2306.php?id=t12
-#EXTINF:-1 tvg-id="6143" tvg-name="台視新聞" tvg-logo="https://www.stream-link.org/tv_logo/ttv_news.png" group-title="台灣新聞",台視新聞
-https://sc2024.stream-link.org/tv2306.php?id=t13
-#EXTINF:-1 tvg-id="9999" tvg-name="公視新聞" tvg-logo="https://www.stream-link.org/tv_logo/pts_news.png" group-title="台灣新聞",公視新聞
-https://sc2024.stream-link.org/tv2306.php?id=t14
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞" tvg-logo="https://www.stream-link.org/tv_logo/tvbs_news.png" group-title="台灣新聞",TVBS新聞
-https://sc2024.stream-link.org/tv2306.php?id=t15
-#EXTINF:-1 tvg-id="6074" tvg-name="TVBS財經" tvg-logo="https://www.stream-link.org/tv_logo/tvbs_finance.png" group-title="台灣新聞",TVBS財經
-https://sc2024.stream-link.org/tv2306.php?id=t16
-#EXTINF:-1 tvg-id="7138" tvg-name="TVBS歡樂台" tvg-logo="https://www.stream-link.org/tv_logo/tvbs_42.png" group-title="台灣綜合綜藝",TVBS歡樂台
-https://sc2024.stream-link.org/tv2306.php?id=t17
-#EXTINF:-1 tvg-id="CTiAsia" tvg-name="中天亞洲台" tvg-logo="https://www.stream-link.org/tv_logo/cti_asia.png" group-title="台灣綜合綜藝",中天亞洲台
-https://sc2024.stream-link.org/tv2306.php?id=t18
-#EXTINF:-1 tvg-id="TVBSAsia" tvg-name="TVBS亞洲台" tvg-logo="https://www.stream-link.org/tv_logo/tvbs_asia.png" group-title="台灣綜合綜藝",TVBS亞洲台
-https://sc2024.stream-link.org/tv2306.php?id=t19
-#EXTINF:-1 tvg-id="7135" tvg-name="民視HD" tvg-logo="https://www.stream-link.org/tv_logo/ftv_hd.png" group-title="台灣綜合綜藝",民視HD
-https://sc2024.stream-link.org/tv2306.php?id=t20
-#EXTINF:-1 tvg-id="7133" tvg-name="民視第一台" tvg-logo="https://www.stream-link.org/tv_logo/ftv_1.png" group-title="台灣綜合綜藝",民視第一台
-https://sc2024.stream-link.org/tv2306.php?id=t21
-#EXTINF:-1 tvg-id="7134" tvg-name="民視台灣台" tvg-logo="https://www.stream-link.org/tv_logo/ftv_tw.png" group-title="台灣綜合綜藝",民視台灣台
-https://sc2024.stream-link.org/tv2306.php?id=t22
-#EXTINF:-1 tvg-id="7145" tvg-name="民視綜藝台" tvg-logo="https://www.stream-link.org/tv_logo/ftv_entertainment.png" group-title="台灣綜合綜藝",民視綜藝台
-https://sc2024.stream-link.org/tv2306.php?id=t23
-#EXTINF:-1 tvg-id="9999" tvg-name="民視影劇台" tvg-logo="https://www.stream-link.org/tv_logo/ftv_drama.png" group-title="台灣綜合綜藝",民視影劇台
-https://sc2024.stream-link.org/tv2306.php?id=t24
-#EXTINF:-1 tvg-id="9999" tvg-name="民視旅遊台" tvg-logo="https://www.stream-link.org/tv_logo/ftv_travel.png" group-title="台灣綜合綜藝",民視旅遊台
-https://sc2024.stream-link.org/tv2306.php?id=t25
-#EXTINF:-1 tvg-id="9999" tvg-name="天才衝衝衝" tvg-logo="https://www.stream-link.org/tv_logo/cts_entertainment.png" group-title="台灣綜合綜藝",天才衝衝衝
-https://sc2024.stream-link.org/tv2306.php?id=t26
-
-#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="https://www.stream-link.org/tv_logo/4gtv_003.png" group-title="台灣綜合綜藝",龍華電影
-https://sc2024.stream-link.org/tv2306.php?id=t30
-#EXTINF:-1 tvg-id="7158" tvg-name="龍華日韓" tvg-logo="https://www.stream-link.org/tv_logo/4gtv_011.png" group-title="台灣綜合綜藝",龍華日韓
-https://sc2024.stream-link.org/tv2306.php?id=t31
-#EXTINF:-1 tvg-id="7185" tvg-name="影迷數位電影台" tvg-logo="https://www.stream-link.org/tv_logo/4gtv_012.png" group-title="台灣綜合綜藝",影迷數位電影台
-https://sc2024.stream-link.org/tv2306.php?id=t32
-#EXTINF:-1 tvg-id="7173" tvg-name="i-Fun動漫台" tvg-logo="https://www.stream-link.org/tv_logo/4gtv_015.png" group-title="台灣綜合綜藝",i-Fun動漫台
-https://sc2024.stream-link.org/tv2306.php?id=t33
-#EXTINF:-1 tvg-id="7190" tvg-name="MTV" tvg-logo="https://www.stream-link.org/tv_logo/4gtv_025.png" group-title="台灣綜合綜藝",MTV
-https://sc2024.stream-link.org/tv2306.php?id=t34
-#EXTINF:-1 tvg-id="7152" tvg-name="History歷史頻道" tvg-logo="https://www.stream-link.org/tv_logo/4gtv_026.png" group-title="台灣綜合綜藝",History歷史頻道
-https://sc2024.stream-link.org/tv2306.php?id=t35
-#EXTINF:-1 tvg-id="6157" tvg-name="靖天日本台" tvg-logo="https://www.stream-link.org/tv_logo/4gtv_047.png" group-title="台灣綜合綜藝",靖天日本台
-https://sc2024.stream-link.org/tv2306.php?id=t36
-#EXTINF:-1 tvg-id="7164" tvg-name="靖天電影台" tvg-logo="https://www.stream-link.org/tv_logo/4gtv_061.png" group-title="台灣綜合綜藝",靖天電影台
-https://sc2024.stream-link.org/tv2306.php?id=t37
-#EXTINF:-1 tvg-id="7139" tvg-name="ELTA娛樂台" tvg-logo="https://www.stream-link.org/tv_logo/4gtv_070.png" group-title="台灣綜合綜藝",ELTA娛樂台
-https://sc2024.stream-link.org/tv2306.php?id=t38
-#EXTINF:-1 tvg-id="LoveNature" tvg-name="Love Nature" tvg-logo="https://www.stream-link.org/tv_logo/4gtv_208.png" group-title="台灣綜合綜藝",Love Nature
-https://sc2024.stream-link.org/tv2306.php?id=t39
-
-#EXTINF:-1 ,广东珠江
+#EXTINF:-1 group-title="地方台",广东珠江
 http://ftxz.7766.org:808/hls/20/index.m3u8
-#EXTINF:-1 ,广东新闻
+#EXTINF:-1 group-title="地方台",广东新闻
 http://ftxz.7766.org:808/hls/21/index.m3u8
-#EXTINF:-1 ,广东体育
+#EXTINF:-1 group-title="地方台",广东体育
 http://ftxz.7766.org:808/hls/28/index.m3u8
-#EXTINF:-1 ,北京卫视「IPV6」
+#EXTINF:-1 group-title="地方台",北京卫视「IPV6」
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
 
-#EXTINF:-1 ,CCTV1「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV1「IPV6」
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
-#EXTINF:-1 ,CCTV2「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV2「IPV6」
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
-#EXTINF:-1 ,CCTV3「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV3「IPV6」
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
-#EXTINF:-1 ,CCTV4「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV4「IPV6」
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
-#EXTINF:-1 ,CCTV5「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV5「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001187/index.m3u8?
-#EXTINF:-1 ,CCTV5+「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV5+「IPV6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,CCTV6「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV6「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001188/index.m3u8?
-#EXTINF:-1 ,CCTV7「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV7「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001236/index.m3u8?
-#EXTINF:-1 ,CCTV8「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV8「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001189/index.m3u8?
-#EXTINF:-1 ,CCTV9「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV9「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001237/index.m3u8?
-#EXTINF:-1 ,CCTV10「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV10「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001238/index.m3u8?
-#EXTINF:-1 ,CCTV11「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV11「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001309/index.m3u8?
-#EXTINF:-1 ,CCTV12「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV12「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001239/index.m3u8?
-#EXTINF:-1 ,CCTV13「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV13「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001328/index.m3u8?
-#EXTINF:-1 ,CCTV14「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV14「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001240/index.m3u8?
-#EXTINF:-1 ,CCTV15「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV15「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001338/index.m3u8?
-#EXTINF:-1 ,CCTV16「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV16「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001258/index.m3u8?
-#EXTINF:-1 ,CCTV17「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV17「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001241/index.m3u8?
-#EXTINF:-1 ,CCTV-16-4K「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV-16-4K「IPV6」
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
-#EXTINF:-1 ,CCTV-4K「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV-4K「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
-#EXTINF:-1 ,CCTV-8K「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV-8K「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-#EXTINF:-1 ,CCTV移动电视
+#EXTINF:-1 group-title="中央广播电视",CCTV移动电视
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
-#EXTINF:-1 ,CCTV兵器科技「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV兵器科技「IPV6」
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-#EXTINF:-1 ,CCTV怀旧剧场「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV怀旧剧场「IPV6」
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-#EXTINF:-1 ,CCTV世界地理「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV世界地理「IPV6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,CCTV文化精品「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV文化精品「IPV6」
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-#EXTINF:-1 ,CCTV央视台球「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV央视台球「IPV6」
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-#EXTINF:-1 ,CCTV央视高网「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV央视高网「IPV6」
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-#EXTINF:-1 ,CCTV风云剧场「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV风云剧场「IPV6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,CCTV第一剧场「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV第一剧场「IPV6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,CCTV风云足球「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV风云足球「IPV6」
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-#EXTINF:-1 ,CCTV电视指南「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV电视指南「IPV6」
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 ,CCTV风云音乐「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV风云音乐「IPV6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,CCTV女性时尚「IPV6」
+#EXTINF:-1 group-title="中央广播电视",CCTV女性时尚「IPV6」
 
-#EXTINF:-1 ,NewTv超级电影「IPV6」
+#EXTINF:-1 group-title="NewTv",NewTv超级电影「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 ,NewTv超级电视剧「IPV6」
+#EXTINF:-1 group-title="NewTv",NewTv超级电视剧「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 ,NewTv超级体育「IPV6」
+#EXTINF:-1 group-title="NewTv",NewTv超级体育「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 ,NewTv超级综艺「IPV6」
+#EXTINF:-1 group-title="NewTv",NewTv超级综艺「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 ,NewTv金牌综艺「IPV6」
+#EXTINF:-1 group-title="NewTv",NewTv金牌综艺「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 ,NewTv东北热剧「IPV6」
+#EXTINF:-1 group-title="NewTv",NewTv东北热剧「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 ,NewTv欢乐剧场「IPV6」
+#EXTINF:-1 group-title="NewTv",NewTv欢乐剧场「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 ,NewTv黑莓电影「IPV6」•支持回看
+#EXTINF:-1 group-title="NewTv",NewTv黑莓电影「IPV6」•支持回看
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 ,NewTv怡伴健康「IPV6」•支持回看
+#EXTINF:-1 group-title="NewTv",NewTv怡伴健康「IPV6」•支持回看
 http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1986735481_995129881/ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
-#EXTINF:-1 ,NewTv潮妈辣婆「IPV6」•支持回看
+#EXTINF:-1 group-title="NewTv",NewTv潮妈辣婆「IPV6」•支持回看
 http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1705588260_46164741/ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
-#EXTINF:-1 ,NewTv军旅剧场「IPV6」•支持回看
+#EXTINF:-1 group-title="NewTv",NewTv军旅剧场「IPV6」•支持回看
 http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw1807611386_-262631246/ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
-#EXTINF:-1 ,NewTv中国功夫「IPV6」•支持回看
+#EXTINF:-1 group-title="NewTv",NewTv中国功夫「IPV6」•支持回看
 http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1934355864_2070028581/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-#EXTINF:-1 ,NewTv农业致富「IPV6」•支持回看
+#EXTINF:-1 group-title="NewTv",NewTv农业致富「IPV6」•支持回看
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2105966330_1690115505/ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
-#EXTINF:-1 ,NewTv动作电影「IPV6」•支持回看
+#EXTINF:-1 group-title="NewTv",NewTv动作电影「IPV6」•支持回看
 http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw2169742343_-422728889/ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
-#EXTINF:-1 ,NewTv家庭剧场「IPV6」•支持回看
+#EXTINF:-1 group-title="NewTv",NewTv家庭剧场「IPV6」•支持回看
 http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw3441504651_1879058580/ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
-#EXTINF:-1 ,NewTv武博世界「IPV6」•支持回看
+#EXTINF:-1 group-title="NewTv",NewTv武博世界「IPV6」•支持回看
 http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw2554338791_49940138/ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
-#EXTINF:-1 ,NewTv爱情喜剧「IPV6」•支持回看
+#EXTINF:-1 group-title="NewTv",NewTv爱情喜剧「IPV6」•支持回看
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2778199896_-991379679/ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
-#EXTINF:-1 ,NewTv精品体育「IPV6」•支持回看
+#EXTINF:-1 group-title="NewTv",NewTv精品体育「IPV6」•支持回看
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1 ,NewTv精品大剧「IPV6」•支持回看
+#EXTINF:-1 group-title="NewTv",NewTv精品大剧「IPV6」•支持回看
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2817459161_-1430429466/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 ,NewTv精品记录「IPV6」•支持回看
+#EXTINF:-1 group-title="NewTv",NewTv精品记录「IPV6」•支持回看
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2837435881_530071425/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1 ,NewTv明星大片「IPV6」•支持回看
+#EXTINF:-1 group-title="NewTv",NewTv明星大片「IPV6」•支持回看
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
 
-#EXTINF:-1 ,CHC动作电影「IPV6」•支持回看
+#EXTINF:-1 group-title="CHC",CHC动作电影「IPV6」•支持回看
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 ,CHC高清电影「IPV6」•支持回看
+#EXTINF:-1 group-title="CHC",CHC高清电影「IPV6」•支持回看
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 ,CHC家庭影院「IPV6」•支持回看
+#EXTINF:-1 group-title="CHC",CHC家庭影院「IPV6」•支持回看
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 
-#EXTINF:-1 ,SiTV五星体育「IPV6」
+#EXTINF:-1 group-title="SiTV",SiTV五星体育「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
-#EXTINF:-1 ,SiTV东方财经「IPV6」
+#EXTINF:-1 group-title="SiTV",SiTV东方财经「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001318/index.m3u8?
-#EXTINF:-1 ,SiTV欢笑剧场「IPV6」
+#EXTINF:-1 group-title="SiTV",SiTV欢笑剧场「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001193/index.m3u8?
-#EXTINF:-1 ,SiTV法治天地「IPV6」
+#EXTINF:-1 group-title="SiTV",SiTV法治天地「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001195/index.m3u8?
-#EXTINF:-1 ,SiTV生活时尚「IPV6」
+#EXTINF:-1 group-title="SiTV",SiTV生活时尚「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001199/index.m3u8?
-#EXTINF:-1 ,SiTV都市剧场「IPV6」
+#EXTINF:-1 group-title="SiTV",SiTV都市剧场「IPV6」
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001203/index.m3u8?
 
-#EXTINF:-1 ,iHOT爱院线
+#EXTINF:-1 group-title="iHOT",iHOT爱院线
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱科幻
+#EXTINF:-1 group-title="iHOT",iHOT爱科幻
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱浪漫
+#EXTINF:-1 group-title="iHOT",iHOT爱浪漫
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱喜剧
+#EXTINF:-1 group-title="iHOT",iHOT爱喜剧
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱悬疑
+#EXTINF:-1 group-title="iHOT",iHOT爱悬疑
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱经典
+#EXTINF:-1 group-title="iHOT",iHOT爱经典
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱赛车
+#EXTINF:-1 group-title="iHOT",iHOT爱赛车
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱体育
+#EXTINF:-1 group-title="iHOT",iHOT爱体育
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱奇谈
+#EXTINF:-1 group-title="iHOT",iHOT爱奇谈
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱玩具
+#EXTINF:-1 group-title="iHOT",iHOT爱玩具
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱怀旧
+#EXTINF:-1 group-title="iHOT",iHOT爱怀旧
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱旅行
+#EXTINF:-1 group-title="iHOT",iHOT爱旅行
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱幼教
+#EXTINF:-1 group-title="iHOT",iHOT爱幼教
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱谍战
+#EXTINF:-1 group-title="iHOT",iHOT爱谍战
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱历史
+#EXTINF:-1 group-title="iHOT",iHOT爱历史
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱都市
+#EXTINF:-1 group-title="iHOT",iHOT爱都市
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱科学
+#EXTINF:-1 group-title="iHOT",iHOT爱科学
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱青春
+#EXTINF:-1 group-title="iHOT",iHOT爱青春
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
-#EXTINF:-1 ,iHOT爱动漫
+#EXTINF:-1 group-title="iHOT",iHOT爱动漫
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-
-#EXTINF:-1 ,精彩影视
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
-#EXTINF:-1 ,求索动物
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
